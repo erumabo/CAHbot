@@ -11,6 +11,10 @@ const commands = [
 	{
 		name: "games",
 		description: "Available games to play"
+	},
+	{
+		name: "cah-card",
+		description: "Throws a new Cards Against Humanity Black Card"
 	}
 ];
 
